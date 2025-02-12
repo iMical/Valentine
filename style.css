@@ -13,13 +13,6 @@ h1 {
 	margin-right: auto;
 }
 
-#centerbutton {
-	display: block;
-	margin-left: 800px;
-	margin-right: 800px;
-	margin-top: 100px;
-	margin-bottom: 300px;
-}
 #yesbutton {
 	background-color: #BFF4BE;
 	border-radius: 20px;
