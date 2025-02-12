@@ -39,3 +39,13 @@ h1 {
 	align-items: center;
 	gap: 10px;
 }
+
+.container div:nth-child(1) {
+	background-color: red;
+}
+.container div:nth-child(2) {
+	background-color: green;
+}
+.container div:nth-child(3) {
+	background-color: blue;
+}
