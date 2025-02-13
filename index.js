@@ -6,4 +6,4 @@ button.addEventListener('click', function(){
 	} else {
 		button.textContent = 'no';
 	}
-})
+});
