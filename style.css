@@ -20,7 +20,6 @@ h1 {
 	height: 50px;
 	font-family: 'Lato', sans-serif;
 	font-size: 25px;
-	margin-right: 25px;
 }
 #nobutton {
 	background-color: #FF7F7F;
@@ -29,18 +28,18 @@ h1 {
 	height: 50px;
 	font-family: 'Lato', sans-serif;
 	font-size: 25px;
-	margin-left: 25px;
 }
 
 .container {
 	display: flex;
 	flex-direction: column;
-	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
 	gap: 10px;
 }
 
-#yn {
-	width: 10vw;
+#opensesame {
+	display: flex;
+	flex-direction: row;
+	gap: 10%;
 }
