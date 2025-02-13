@@ -41,14 +41,6 @@ h1 {
 	gap: 10px;
 }
 
-.container div:nth-child(1) {
-	background-color: red;
-	width: 50%
-}
-.container div:nth-child(2) {
-	background-color: green;
-	width:50%;
-}
 #yn {
 	width: 10vw;
 }
